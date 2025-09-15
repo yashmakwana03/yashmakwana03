@@ -18,10 +18,11 @@ I'm a computer science student with a passion for building great things. I love 
 
 I'm always open to collaborating on new projects or discussing tech.
 
-* **LinkedIn:** [linkedin.com/in/yash-makwana-634ba9278](https://www.linkedin.com/in/yash-makwana-634ba9278/)
+* **LinkedIn:** [linkedin.com/in/yashhmakwana03](https://www.linkedin.com/in/yashmakwana03/)
 * **Email:** `yashmakwana2275@gmail.com`
 
 ---
+
 
 ###
 
