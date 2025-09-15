@@ -25,14 +25,6 @@ I'm always open to collaborating on new projects or discussing tech.
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yashmakwana03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="streak graph"  />
-</div>
-
----
-
-###
-
 Thanks for stopping by!
 
 ###
