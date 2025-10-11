@@ -8,8 +8,8 @@ I'm a computer science student with a passion for building great things. I love 
 ### 🛠️ My Tech Stack
 
 * **Languages:** Dart, JavaScript, Python, C#, PHP
-* **Frameworks:** Flutter, Laravel, React
-* **Databases:** MySQL, Oracle
+* **Frameworks:** Flutter,
+* **Databases:** MySQL, 
 * **Tools:** Git, Figma, VS Code
 
 ---
