@@ -7,7 +7,7 @@ I'm a computer science student with a passion for building great things. I love 
 
 ### 🛠️ My Tech Stack
 
-* **Languages:** Dart, JavaScript, Python, C#, PHP
+* **Languages:** Dart, Python, C#, PHP
 * **Frameworks:** Flutter 
 * **Databases:** Mysql 
 * **Tools:** Git, Figma, VS Code
