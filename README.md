@@ -31,6 +31,7 @@ I'm always open to collaborating on new projects or discussing tech.
 
 * **LinkedIn:** [linkedin.com/in/yashhmakwana03](https://www.linkedin.com/in/yashmakwana03/)
 * **Email:** `yashmakwana2275@gmail.com`
-
+---
+![](https://komarev.com/ghpvc/?username=yashmakwana03)
 ---
 <p align="center">Thanks for stopping by!</p>
