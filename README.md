@@ -7,7 +7,7 @@
 I'm passionate about building **robust, user-centric applications** that solve real-world problems. From mobile apps to enterprise software, I love turning innovative ideas into functional, impactful solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmakwana03/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmakwana2275@gmail.com)
+[![Email](https://img.shields.io/badge/yashmakwana2275@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yashmakwana2275@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=yashmakwana03&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -61,21 +61,6 @@ I'm passionate about building **robust, user-centric applications** that solve r
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashmakwana03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmakwana03&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashmakwana03&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on new projects, discuss technology, or explore opportunities!
@@ -83,7 +68,7 @@ I'm always excited to collaborate on new projects, discuss technology, or explor
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmakwana03/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmakwana2275@gmail.com)
+[![Email](https://img.shields.io/badge/yashmakwana2275@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yashmakwana2275@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashmakwana03)
 
 </div>
