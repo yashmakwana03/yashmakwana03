@@ -68,14 +68,6 @@ I'm a 6th-semester student at RK University in Rajkot, passionate about building
 - 💰 Automated loan calculations and installment tracking
 - 📈 Advanced payment tracking and financial reporting
 
-### 🤖 Discord OCR Bot
-> *Automated data tracking bot for inventory management*
-
-**Tech Stack:** Node.js • Tesseract.js • Discord.js  
-**Highlights:**
-- 👁️ Optical Character Recognition (OCR) to read image data
-- 📊 Automated extraction and database storage of game statistics
-
 ---
 
 ## 🤝 Let's Connect!
