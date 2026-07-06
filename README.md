@@ -5,7 +5,7 @@
 
 ### 🚀 B.Tech Computer Engineering Student | Full-Stack Developer 
 
-I'm a 6th-semester student at RK University in Rajkot, passionate about building **robust, user-centric applications**. From MERN stack web platforms to Flutter mobile apps and enterprise .NET software, I love turning innovative ideas into functional, impactful solutions.
+I'm a 7th-semester student at RK University in Rajkot, passionate about building **robust, user-centric applications**. From MERN stack web platforms to Flutter mobile apps and enterprise .NET software, I love turning innovative ideas into functional, impactful solutions.
 
 **🌐 Check out my full portfolio: [yashmakwana03.github.io](https://yashmakwana03.github.io/)**
 
